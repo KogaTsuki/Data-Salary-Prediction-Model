@@ -6,3 +6,6 @@ This is my first attempt at making a machine-learning model! Uses the random for
 ### Dependencies
 TensorFlow Decision Forests\
 pandas
+
+### Dataset
+[Jobs and Salaries in Data Science](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/data)
